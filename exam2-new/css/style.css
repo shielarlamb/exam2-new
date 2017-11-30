@@ -1,0 +1,147 @@
+/* type selectors */
+
+article,
+aside,
+figure,
+figcaption,
+footer,
+header,
+nav,
+section {
+  display: block;
+}
+
+body {
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  background-color: #FFF5E1;
+}
+
+header {
+  width: 100%;
+  padding: 10px 15px;
+  background-image: url("../images/moonflower.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-color: #80B7B3;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Papyrus, fantasy, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 25px;
+  margin-bottom: 5px;
+  color: #FFDB97;
+  text-shadow: 2px 2px 3px #000000;
+}
+
+main h2 {
+  background-color: #cccccc;
+  width: 100%;
+  border-radius: 7px;
+  padding: 15px 15px 10px 15px;
+  text-align: center;
+  padding: 14px 5px 8px 5px;
+  color: #7F72B1;
+  background-color: #D2CDE5;
+  border-radius: 15px;
+}
+
+article {
+  margin: 20px;
+}
+
+aside {
+  color: #000000;
+  padding: 10px;
+}
+
+aside h2 {
+  width: 100%;
+  text-align: center;
+  padding: 14px 5px 8px 5px;
+  color: darkgoldenrod;
+  background-color: #FFDB97;
+  border-radius: 15px;
+}
+
+section {
+  padding: 0 25px 15px 25px;
+}
+
+section h3 {
+  color: #000;
+}
+
+#menu h2 {
+  background-color: #D2CDE5;
+  color: #7F72B1;
+}
+
+#menu h3 {
+  color: #7F72B1;
+}
+
+#staff h2 {
+  background-color: #C4DEDC;
+  color: #5E9F9A;
+}
+
+#staff h3,
+#staff h4,
+#staff h5 {
+  color: #5E9F9A;
+}
+
+#staff h3 {
+  border-bottom: 1px solid #5E9F9A;
+}
+
+#staff article {
+  margin: 0 0 20px 0;
+  padding: 20px;
+}
+
+#staff {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#story h2 {
+  background-color: #F2DEDE;
+  color: #A94442;
+}
+
+#story h3 {
+  color: #A94442;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  padding-left: 45px;
+  margin-bottom: 0;
+}
+
+li {
+  padding-top: .25em;
+}
+
+td {
+  padding: 15px 30px;
+}
+
+table caption {
+  color: #5E9F9A;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+tr {
+  border: 1px solid #5E9F9A;
+}

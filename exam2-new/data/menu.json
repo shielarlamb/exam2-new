@@ -1,0 +1,54 @@
+{
+  "bakery": [
+    {
+      "name": "Assorted Muffins",
+      "price": "$1.75"
+    },
+    {
+      "name": "Fresh Baked Brownie",
+      "price": "$2.00"
+    },
+    {
+      "name": "Assorted Scones",
+      "price": "$2.75"
+    },
+    {
+      "name": "Slice of Chocolate Cake",
+      "price": "$3.75"
+    },
+    {
+      "name": "Slice of Strawberry Cream Cake",
+      "price": "$3.75"
+    }
+  ],
+  "beverages": [
+    {
+      "name": "Fresh Ground Coffee",
+      "price": "$2.25"
+      },
+    {
+      "name": "Espresso",
+      "price": "$2.75"
+    },
+    {
+      "name": "Americano",
+      "price": "$2.85"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "$3.50"
+    },
+    {
+      "name": "Latte",
+      "price": "$3.50"
+    },
+    {
+      "name": "Mocha",
+      "price": "$3.75"
+    },
+    {
+      "name": "Breve",
+      "price": "$3.75"
+    }
+  ]
+}

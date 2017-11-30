@@ -1,0 +1,58 @@
+{
+  "hours": [
+    {
+      "day": "Monday - Thursday",
+      "time": "6AM - 8PM"
+    },
+    {
+      "day": "Friday",
+      "time": "6AM - 10PM"
+    },
+    {
+      "day": "Saturday - Sunday",
+      "time": "8AM - 8PM"
+    }
+  ],
+  "specials": [
+    {
+      "code": "hzlnutcap",
+      "desc": "Drink of the week: Hazlenut Cappuccino $3",
+      "img": "cappuccino.jpg"
+    },
+    {
+      "code": "chococake",
+      "desc": "Bakery: Slice of Chocolate Cake $3",
+      "img": "choc-cake.jpg"
+    },
+    {
+      "code": "crancoffee",
+      "desc": "AM only: Cranberry Scone & Coffee $4"
+    }
+  ],
+  "staff": [
+    {
+      "id": "leilah",
+      "name": "Leilah Moonflower",
+      "img": "Leilah.png",
+      "text": "The Moonflower sisters, Leilah and Khisa, are the proud founders of Moonflower's Coffee. After their adventuring days came to an end, they decided there was nothing more relaxing than sitting down to a slice of cake with a fine cup of coffee. Khisa manages the Limsa store and is also responsible for all the fine baked goods."
+    },
+    {
+      "id": "hastan",
+      "name": "Hastan",
+      "img": "Hastan.png",
+      "text": "Hastan is our bean buyer and a pro coffee roaster. He has traveled the world to ensure that Moonflower's bean are top notch, environmentally friendly, and fair-trade certified. He's always happy to share pictures and stories from his trips and will tell you more about coffee than you ever wanted to know."
+    },
+    {
+      "id": "khisaMoon",
+      "name": "Khisa Moonflower",
+      "img": "Khisa.png",
+      "text": "The Moonflower sisters, Khisa and Leilah, are the proud founders of Moonflower's Coffee. After their adventuring days came to an end, they decided there was nothing more relaxing than sitting down to a slice of cake with a fine cup of coffee. "
+    },
+    {
+      "id": "noirterel",
+      "name": "Noirterel",
+      "img": "Noirterel.png",
+      "text": "Noirterel is our newest employee and baker. You can thank him for the awesome pumpkin, cardamom scones that we featured in this fall. We're all looking forward to seeing what he makes for us this winter."
+    }
+  ]
+}
